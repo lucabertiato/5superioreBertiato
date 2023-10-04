@@ -1,0 +1,4 @@
+dataNascita;dataAssunzione;numOreSett;pianoUfficio;numPostazioni;nome;cognome;residenza;nomeUfficio;siglaLocale;nomeResponsabile;
+30/12/2005;05/05/2022;40;1;2;Luca;Bertiato;Via Milano 78, Cantù;Amministrazione;A1;Andrea Finazzi;
+30/12/2005;05/05/2022;40;1;2;Luca;Bertiato;Via Milano 78, Cantù;Amministrazione;A1;Andrea Finazzi;
+30/12/2005;05/05/2022;40;1;2;Luca;Bertiato;Via Milano 78, Cantù;Amministrazione;A1;Andrea Finazzi;
